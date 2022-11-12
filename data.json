@@ -1,27 +1,74 @@
 [
   {
     "id": 1,
-    "title": "Divyang Maurya",
-    "age": 19
+    "fam_id": 1,
+    "name": "Divyang Maurya",
+    "age": 19,
+    "father name": "Jitendra Maurya",
+    "gender": "M",
+    "dob": "DDMMYYYY",
+    "constituent assembly": "Lucknow North-east-west-south",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 2,
-    "title": "Mohd Aman",
-    "age": 17
+    "name": "Mohd Aman",
+    "age": 17,
+    "father name": "Mohd Rafeeq"
   },
   {
     "id": 3,
-    "title": "Himanshu Rai",
-    "age": 18
+    "name": "Himanshu Rai",
+    "age": 18,
+    "father name": "Rajeev Rai"
   },
   {
     "id": 4,
-    "title": "Anushka Sharad",
-    "age": 21
+    "name": "Anushka Sharad",
+    "age": 21,
+    "father name": "Sharad Mishra"
   },
   {
     "id": 5,
-    "title": "Ayushi Chaudhary",
-    "age": 20
+    "name": "Ayushi Chaudhary",
+    "age": 21,
+    "father name": "Harendra Chaudhary"
+  },
+  {
+    "id": 6,
+    "name": "Sugandha Singh",
+    "age": 20,
+    "father name": "Gopal Shankar Singh"
+  },
+  {
+    "id": 7,
+    "name": "Aditi Mishra",
+    "age": 20,
+    "father name": "Dinesh Mishra"
+  },
+  {
+    "id": 8,
+    "name": "Gargi Nigam",
+    "age": 20,
+    "father name": "Pankaj Nigam"
+  },
+  {
+    "id": 9,
+    "name": "Surabhi Chaudhary",
+    "age": 20,
+    "father name": "Rakesh Chaudhary"
+  },
+  {
+    "id": 10,
+    "name": "Priyanka Chopra",
+    "age": 40,
+    "father name": "Mayank Chopra"
+  },
+  {
+    "id": 11,
+    "name": "Deepika Padukone",
+    "age": 35,
+    "father name": "Rishabh Padukone"
   }
 ]
