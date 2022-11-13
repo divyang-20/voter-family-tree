@@ -1,74 +1,244 @@
 [
   {
     "id": 1,
-    "fam_id": 1,
+    "fam_id": 21,
     "name": "Divyang Maurya",
     "age": 19,
-    "father name": "Jitendra Maurya",
+    "fname": "Jitendra Maurya",
     "gender": "M",
-    "dob": "DDMMYYYY",
-    "constituent assembly": "Lucknow North-east-west-south",
+    "dob": "13112003",
+    "cassembly": "Lucknow North",
     "district": "Lucknow",
     "state": "Uttar Pradesh"
   },
   {
     "id": 2,
-    "name": "Mohd Aman",
-    "age": 17,
-    "father name": "Mohd Rafeeq"
+    "fam_id": 21,
+    "name": "Jitendra Maurya",
+    "age": 42,
+    "fname": "Ravendra Maurya",
+    "gender": "M",
+    "dob": "13111980",
+    "cassembly": "Lucknow North",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
   },
+
   {
     "id": 3,
-    "name": "Himanshu Rai",
-    "age": 18,
-    "father name": "Rajeev Rai"
+    "fam_id": 22,
+    "name": "Mohd Aman",
+    "age": 17,
+    "fname": "Mohd Rafeeq",
+    "gender": "M",
+    "dob": "25102004",
+    "cassembly": "Shahjahanpur East",
+    "district": "Shahjahanpur",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 4,
-    "name": "Anushka Sharad",
-    "age": 21,
-    "father name": "Sharad Mishra"
+    "fam_id": 22,
+    "name": "Mohd Rafeeq",
+    "age": 43,
+    "fname": "Mohd Irfan",
+    "gender": "M",
+    "dob": "25101979",
+    "cassembly": "Shahjahanpur East",
+    "district": "Shahjahanpur",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 5,
-    "name": "Ayushi Chaudhary",
-    "age": 21,
-    "father name": "Harendra Chaudhary"
+    "fam_id": 23,
+    "name": "Himanshu Rai",
+    "age": 18,
+    "fname": "Rajeev Rai",
+    "gender": "M",
+    "dob": "25112003",
+    "cassembly": "Ghazipur North",
+    "district": "Ghazipur",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 6,
-    "name": "Sugandha Singh",
-    "age": 20,
-    "father name": "Gopal Shankar Singh"
+    "fam_id": 23,
+    "name": "Rajeev Rai",
+    "age": 48,
+    "fname": "Vivek Rai",
+    "gender": "M",
+    "dob": "05021974",
+    "cassembly": "Ghazipur North",
+    "district": "Ghazipur",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 7,
-    "name": "Aditi Mishra",
-    "age": 20,
-    "father name": "Dinesh Mishra"
+    "fam_id": 24,
+    "name": "Anushka Sharad",
+    "age": 21,
+    "fname": "Sharad Mishra",
+    "gender": "F",
+    "dob": "21102001",
+    "cassembly": "Lucknow North",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 8,
-    "name": "Gargi Nigam",
-    "age": 20,
-    "father name": "Pankaj Nigam"
+    "fam_id": 24,
+    "name": "Sharad Mishra",
+    "age": 45,
+    "fname": "Dinesh Mishra",
+    "gender": "M",
+    "dob": "18121977",
+    "cassembly": "Lucknow North",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 9,
-    "name": "Surabhi Chaudhary",
-    "age": 20,
-    "father name": "Rakesh Chaudhary"
+    "fam_id": 25,
+    "name": "Ayushi Chaudhary",
+    "age": 21,
+    "fname": "Harendra Chaudhary",
+    "gender": "F",
+    "dob": "17092001",
+    "cassembly": "Agra West",
+    "district": "Agra",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 10,
-    "name": "Priyanka Chopra",
-    "age": 40,
-    "father name": "Mayank Chopra"
+    "fam_id": 25,
+    "name": "Harendra Chaudhary",
+    "age": 47,
+    "fname": "Devendra Chaudhary",
+    "gender": "M",
+    "dob": "12091975",
+    "cassembly": "Agra west",
+    "district": "Agra",
+    "state": "Uttar Pradesh"
   },
   {
     "id": 11,
-    "name": "Deepika Padukone",
-    "age": 35,
-    "father name": "Rishabh Padukone"
+    "fam_id": 26,
+    "name": "Sugandha Singh",
+    "age": 20,
+    "fname": "Gopal Shankar Singh",
+    "gender": "F",
+    "dob": "13052002",
+    "cassembly": "Varanasi South",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": 12,
+    "fam_id": 26,
+    "name": "Gopal Shankar Singh",
+    "age": 50,
+    "fname": "Krishna Shankar Singh",
+    "gender": "M",
+    "dob": "12031972",
+    "cassembly": "Varanasi South",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": 13,
+    "fam_id": 27,
+    "name": "Aditi Mishra",
+    "age": 20,
+    "fname": "Ramesh Mishra",
+    "gender": "F",
+    "dob": "01052002",
+    "cassembly": "Lucknow West",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": 14,
+    "fam_id": 27,
+    "name": "Ramesh Mishra",
+    "age": 56,
+    "fname": "Mohan Mishra",
+    "gender": "M",
+    "dob": "28041966",
+    "cassembly": "Lucknow West",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": 15,
+    "fam_id": 28,
+    "name": "Gargi Nigam",
+    "age": 20,
+    "fname": "Pankaj Nigam",
+    "gender": "F",
+    "dob": "01052002",
+    "cassembly": "Mathura North",
+    "district": "Mathura",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": 16,
+    "fam_id": 28,
+    "name": "Pankaj Nigam",
+    "age": 45,
+    "fname": "Yash Nigam",
+    "gender": "M",
+    "dob": "01101977",
+    "cassembly": "Mathura North",
+    "district": "Mathura",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": 17,
+    "fam_id": 29,
+    "name": "Surabhi Chaudhary",
+    "age": 22,
+    "fname": "Rakesh Chaudhary",
+    "gender": "F",
+    "dob": "01102000",
+    "cassembly": "Lucknow South",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": 18,
+    "fam_id": 29,
+    "name": "Rakesh Chaudhary",
+    "age": 53,
+    "fname": "Aravind Chaudhary",
+    "gender": "M",
+    "dob": "07061969",
+    "cassembly": "Lucknow South",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
+  },
+
+  {
+    "id": 19,
+    "fam_id": 30,
+    "name": "Priyanka Chopra",
+    "age": 40,
+    "fname": "Mayank Chopra",
+    "gender": "F",
+    "dob": "08021982",
+    "cassembly": "Thane West",
+    "district": "Thane",
+    "state": "Maharashtra"
+  },
+  {
+    "id": 20,
+    "fam_id": 30,
+    "name": "Mayank Chopra",
+    "age": 65,
+    "fname": "Mahesh Chopra",
+    "gender": "M",
+    "dob": "25071957",
+    "cassembly": "Thane West",
+    "district": "Thane",
+    "state": "Maharashtra"
   }
 ]
