@@ -40,7 +40,7 @@ router.get("/", (req, res) => {
     if (gender && filterLower(users[i].gender) === filterLower(gender))
       garr.push(i);
     if (!gender) garr.push(i);
-    if (id && users[i].id === parseInt(id)) iarr.push(i);
+    if (id && users[i].fam_id === parseInt(id)) iarr.push(i);
     if (!id) iarr.push(i);
   }
   for (var i = 0; i < users.length; i++) {
@@ -57,7 +57,7 @@ router.get("/", (req, res) => {
     }
   }
   // console.log("main-->", main);
-  console.log("lower-->", filterLower("Divyang Maurya"));
+  // console.log("lower-->", filterLower("Divyang Maurya"));
   for (var i = 0; i < main.length; i++) {
     data.push(users[main[i]]);
   }
